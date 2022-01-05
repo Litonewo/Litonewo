@@ -1,4 +1,4 @@
-Hello, call me Lito. I am learning compsci and have experience in Java, Python, and BASH. I am familar with Windows and Ubuntu. 
+I am learning compsci and have experience in Java, Python, and BASH. I am familar with Windows and Ubuntu. 
 
 I can speak English and traditional Chinese, though I am learning Korean.
 
